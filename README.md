@@ -5,9 +5,7 @@ Stashcoin Wallet
 
 http://www.stashgroup.net
 
-StashCoin uses blakecoin's blake-256, the algorithm was written as a candidate for sha3. 
-Based on round one candidate code from the sphlib 2.1 and reduced the compression function to 8. 
-Mining with Kimoto Gravity Well implementation. 
+StashCoin uses the SHA256 algorythm with Kimoto's Gravity Well implementation. 
 As it is right now, StashCoin is largely based on stashcoin with some modifications.
 
 
